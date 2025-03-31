@@ -33,4 +33,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/MuhammadBilalAkbar)
+⭐️ From [MuhammadBilalAkbar](https://github.com/MuhammadBilalAkbar)
