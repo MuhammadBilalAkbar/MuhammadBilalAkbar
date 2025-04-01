@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter
 - 📫 How to reach me: mbilalakbarkh786@icloud.com
+- 📞 Whatsapp me at https://wa.me/+923068963732
   
 ### Connect with me:
 <div id="badges">
