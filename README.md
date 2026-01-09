@@ -12,6 +12,9 @@
   <a href="https://github.com/MuhammadBilalAkbar">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
+  <a href="https://github.com/MuhammadBilalAkbar">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=black" alt="Linkedin Badge"/>
+  </a>
    <a href="https://www.instagram.com/its_bilal_akbar">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
