@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="[https://github.com/MuhammadBilalAkbar](https://www.linkedin.com/in/mohammad-bilal-akbar-981649189/)">
-    <img src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=LinkedIn&logoColor=black" alt="Linkedin Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=black" alt="Linkedin Badge"/>
   </a>
   <a href="https://www.youtube.com/watch?v=KNpcXrg91qc&list=PLjsAnKhr2SrjwJ2ESv-M3H0il3PR_8Apr&index=1">
     <img src="https://img.shields.io/badge/Youtube-Red?style=for-the-badge&logo=Youtube&logoColor=black" alt="Youtube Badge"/>
