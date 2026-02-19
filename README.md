@@ -5,7 +5,7 @@
 - 💬 Ask me anything about Flutter
 - 📫 How to reach me: mbilalakbarkh786@icloud.com
 - 📞 Whatsapp me at https://wa.me/+923068963732
-- 🎦 Youtube Vidoes for Portfolio: https://www.youtube.com/watch?v=KNpcXrg91qc&list=PLjsAnKhr2SrjwJ2ESv-M3H0il3PR_8Apr&index=1
+- 🎦 Youtube Vidoes for Portfolio: [https://www.youtube.com/watch?v=KNpcXrg91qc&list=PLjsAnKhr2SrjwJ2ESv-M3H0il3PR_8Apr&index=1](https://bit.ly/YoutubeGithubPortfolio)
   
 ### Connect with me:
 <div id="badges">
@@ -15,7 +15,7 @@
   <a href="[https://github.com/MuhammadBilalAkbar](https://www.linkedin.com/in/mohammad-bilal-akbar-981649189/)">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=blue" alt="Linkedin Badge"/>
   </a>
-  <a href="https://bit.ly/YoutubeGithubPortfolio">
+  <a href="[https://bit.ly/YoutubeGithubPortfolio](https://bit.ly/YoutubeGithubPortfolio)">
     <img src="https://img.shields.io/badge/Youtube-Red?style=for-the-badge&logo=Youtube&logoColor=red" alt="Youtube Badge"/>
   </a>
    <a href="https://www.instagram.com/its_bilal_akbar">
